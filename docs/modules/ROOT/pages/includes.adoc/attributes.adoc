@@ -1,0 +1,3 @@
+
+// example variables
+:java-version: 17
