@@ -1,5 +1,3 @@
-name: docs-guides-bpmn
+name: guides
 title: Bpmn guide
 version: latest
-nav:
-  - modules/ROOT/nav.adoc
