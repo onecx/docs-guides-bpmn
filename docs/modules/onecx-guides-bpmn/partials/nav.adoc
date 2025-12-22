@@ -1,6 +1,5 @@
-* BPMN
-* xref:index.adoc[BPMN]
-** xref:cancel-timer.adoc[Cancel timer]
-** xref:documentation:bpmn:request-callback.adoc[Request callback]
-** xref:documentation:bpmn:messages.adoc[Messages]
-** xref:documentation:bpmn:open-topics.adoc[Open topics]
+* xref:documentation:onecx-guides-bpmn:index.adoc[BPMN]
+** xref:documentation:onecx-guides-bpmn:cancel-timer.adoc[Cancel Timer]
+** xref:documentation:onecx-guides-bpmn:request-callback.adoc[Request Callback]
+** xref:documentation:onecx-guides-bpmn:messages.adoc[Messages]
+** xref:documentation:onecx-guides-bpmn:open-topics.adoc[Open Topics]
