@@ -1,3 +1,3 @@
 # docs-guides-bpmn
 
-OneCX Guide BPMN
+OneCX BPMN
