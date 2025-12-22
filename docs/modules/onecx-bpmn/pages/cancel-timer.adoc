@@ -1,4 +1,4 @@
-= Cancel timer
+= BPMN: Cancel Timer
 
 Sometimes the business case requires that the set timer needs to be manually canceled so that the process can continue further. For this purpose, 
 it is ideal to use an exclusive event-based gateway that enables work with events.
