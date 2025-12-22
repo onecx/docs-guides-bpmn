@@ -1,4 +1,4 @@
-= Bpmn guide
+= BPMN Guide
 
 Let's discover **BPMN process modelling** and how it works with **Camunda 8 platform**.
 
